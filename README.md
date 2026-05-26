@@ -380,7 +380,6 @@ Or change `.master("local[*]")` to `.master("spark://<master-ip>:7077")` in the 
 ## 👤 Author
 
 **Aditya Karippadath Udai**
-B.Tech CSE (AI) — Amrita University, Kerala
 [GitHub](https://github.com/AdityaKarippadathUdai)
 
 ---
