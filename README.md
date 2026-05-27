@@ -35,6 +35,14 @@ Diabetes is one of the most prevalent chronic diseases globally, affecting over 
 
 This project addresses both concerns: it uses **Apache Spark (PySpark) and MLlib** to build a distributed, scalable ML pipeline for diabetes prediction, then adds a full **Explainable AI (XAI)** layer using SHAP and LIME to make every prediction interpretable. The project exists in two versions — a core ML notebook and an XAI-extended version — allowing clear comparison of a model-only baseline against an interpretability-augmented system.
 
+
+# BDA Project
+
+<div align="center">
+
+<img src="./assets/training-animation.svg" width="100%"/>
+
+</div>
 ---
 
 ## 🎯 Problem Statement
